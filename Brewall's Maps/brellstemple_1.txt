@@ -28,7 +28,7 @@ P -2.4657, -596.7319, 17.4972,  0, 0, 0,  2,  Brell_Serilis
 P 185.2671, -459.3755, -1.4832,  0, 0, 0,  2,  Pristine_Creation_(Roam)
 P 198.4576, -919.5049, -4.2672,  127, 64, 0,  2,  Empowered_Reflection_(Hunter,Roam)
 P 182.5678, -644.8899, 10.9924,  127, 64, 0,  2,  Gigyn_Brute_(Hunter,Roam)
-P 4.0738, -1212.9884, -25.2672,  127, 64, 0,  2,  Misshapen_Formation_(Hunter)
+P 4.0738, -1212.9883, -25.2672,  127, 64, 0,  2,  Misshapen_Formation_(Hunter)
 P -39.2808, -1134.6375, -25.2672,  127, 64, 0,  2,  Misshapen_Formation_(Hunter)
 P -487.3313, -554.4809, -15.9836,  127, 64, 0,  2,  Naglebrak_(Hunter)
 P -204.6771, -319.3047, 0.9672,  127, 64, 0,  2,  Pristine_Creation_(Hunter,Roam)

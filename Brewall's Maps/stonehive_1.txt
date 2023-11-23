@@ -30,4 +30,4 @@ P -176.3808, 44.7398, 274.1997,  127, 64, 0,  2,  Slavemistress_Hizja_(Hunter,Ro
 P 80.7125, 231.8094, -81.0382,  127, 64, 0,  2,  Suitor_Drezia_(Hunter)
 P 1050.4469, -175.9421, 43.4655,  127, 64, 0,  2,  Wasp_Infiltrator_(Hunter)
 P -1.2555, 149.1360, 407.1050,  127, 64, 0,  2,  Wing_Commander_Drixi_(Hunter)
-
+P 991.6226, -587.5250, 36.1330,  0, 127, 0,  2,  a_bixie_imposter_(Enchanter_Spells)
