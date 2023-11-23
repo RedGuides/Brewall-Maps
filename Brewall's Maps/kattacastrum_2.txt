@@ -656,20 +656,21 @@ L 1150, 7200, 0, 1180, 7200, 0, 255, 0, 0
 L 1150, 7230, 0, 1180, 7230, 0, 255, 0, 0
 L 1150, 7170, 0, 1150, 7230, 0, 255, 0, 0
 L 1180, 7170, 0, 1150, 7170, 0, 255, 0, 0
-P 0, 5400, 0, 0, 0, 0, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
-P 0, 5600, 0, 0, 0, 0, 2, http://www.eqmaps.info
-P 0, 5800, 0, 0, 0, 0, 2, Return_of_the_Exiled_(www.roteguild.org)
-P 0, 6000, 0, 127, 64, 0, 2, Arch_Summoner_Vratizosh
-P 0, 6200, 0, 127, 64, 0, 2, Brine_of_Prexus
-P 0, 6400, 0, 127, 64, 0, 2, Confidante_Ruxhutin
-P 0, 6600, 0, 127, 64, 0, 2, Dark_Rites_Master_Rhissutiz
-P 0, 6800, 0, 127, 64, 0, 2, Gluttuxl_of_the_Fangs
-P 0, 7000, 0, 127, 64, 0, 2, Hezmaklith_the_Deadkeeper
-P 0, 7200, 0, 127, 64, 0, 2, Khirixireth_the_Watcher
-P 0, 7400, 0, 127, 64, 0, 2, Messenger_Xhuxutuzh
-P 0, 7600, 0, 127, 64, 0, 2, Mudpuppy
-P 0, 7800, 0, 127, 64, 0, 2, Sarkhaza_the_Bone_Collector
-P 0, 8000, 0, 127, 64, 0, 2, Spiritflame_of_the_Drowned
-P 0, 8200, 0, 127, 64, 0, 2, Tempest_Eddy
-P 0, 8400, 0, 127, 64, 0, 2, Voidwalker_Vithsixix
-P 0, 8600, 0, 127, 64, 0, 2, Zrazhzakezu_the_Defiant
+P 0, 5400, 0, 0, 0, 0, 2, Original_Map:_Latan_of_Saryn
+P 0, 5600, 0, 0, 0, 0, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
+P 0, 5800, 0, 0, 0, 0, 2, http://www.eqmaps.info
+P 0, 6000, 0, 0, 0, 0, 2, Return_of_the_Exiled_(www.roteguild.org)
+P 0, 6200, 0, 127, 64, 0, 2, Arch_Summoner_Vratizosh
+P 0, 6400, 0, 127, 64, 0, 2, Brine_of_Prexus
+P 0, 6600, 0, 127, 64, 0, 2, Confidante_Ruxhutin
+P 0, 6800, 0, 127, 64, 0, 2, Dark_Rites_Master_Rhissutiz
+P 0, 7000, 0, 127, 64, 0, 2, Gluttuxl_of_the_Fangs
+P 0, 7200, 0, 127, 64, 0, 2, Hezmaklith_the_Deadkeeper
+P 0, 7400, 0, 127, 64, 0, 2, Khirixireth_the_Watcher
+P 0, 7600, 0, 127, 64, 0, 2, Messenger_Xhuxutuzh
+P 0, 7800, 0, 127, 64, 0, 2, Mudpuppy
+P 0, 8000, 0, 127, 64, 0, 2, Sarkhaza_the_Bone_Collector
+P 0, 8200, 0, 127, 64, 0, 2, Spiritflame_of_the_Drowned
+P 0, 8400, 0, 127, 64, 0, 2, Tempest_Eddy
+P 0, 8600, 0, 127, 64, 0, 2, Voidwalker_Vithsixix
+P 0, 8800, 0, 127, 64, 0, 2, Zrazhzakezu_the_Defiant

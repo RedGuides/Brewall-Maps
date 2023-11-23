@@ -731,7 +731,7 @@ L 1250, 2980, 0, 1280, 2980, 0, 255, 0, 0
 L 1250, 3010, 0, 1280, 3010, 0, 255, 0, 0
 L 1250, 2950, 0, 1250, 3010, 0, 255, 0, 0
 L 1280, 2950, 0, 1250, 2950, 0, 255, 0, 0
-P 100, 900, 0, 0, 0, 0, 2, Original_Map:_Caudyr_&_Beimith
+P 100, 900, 0, 0, 0, 0, 2, Original_Map:_Caudyr_&_Beimeith
 P 100, 1100, 0, 0, 0, 0, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P 100, 1300, 0, 0, 0, 0, 2, http://www.eqmaps.info
 P 100, 1500, 0, 0, 0, 0, 2, Return_of_the_Exiled_(www.roteguild.org)
