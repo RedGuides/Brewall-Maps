@@ -1,0 +1,5 @@
+P 1364, -599, 324, 240, 0, 0, 3, to_Laurion_Inn
+P 1296, -541, 324, 0, 127, 127, 2, Elmara_Emberclaw_(Quests)
+P 1368, -553, 324, 0, 127, 127, 2, Elmara`s_Journal_(Quests)
+P 1018, -62, 121, 0, 127, 127, 2, Candide_Bildung_(Quests)
+P 1015, -38, 117, 0, 0, 0, 2, Martin
