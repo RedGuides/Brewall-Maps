@@ -34,3 +34,4 @@ P 679.5329, -1071.1659, -270.5482,  127, 64, 0,  2,  Sharlash_the_Ninthborn_(Hun
 P 90.4977, 331.7128, 348.0319,  127, 64, 0,  2,  Thanus_the_Eleventh_Born_(Hunter)
 P 325.8759, -748.3586, -276.6290,  127, 64, 0,  2,  The_Guardian_of_the_Doorway_(Hunter,Roam,HS)
 P -544.2310, -166.1975, -277.2083,  0, 127, 127,  2,  Arena_Overseer_(Quests)
+P 125.0000, -677.0000, 268.7486,  240, 0, 0,  2,  from_Skylance
