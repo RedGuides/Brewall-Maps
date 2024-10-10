@@ -1,0 +1,2 @@
+P 286.0968, -34.2716, -12.8402,  240, 0, 0,  3,  to_Hodstock_Hills_(Brust_Lraydo)
+P -2300.4600, -497.0303, 70.3570,  240, 0, 0,  3,  to_Aureate_Covert
