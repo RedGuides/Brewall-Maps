@@ -1,0 +1,11 @@
+P 38.2376, -41.9376, -46.5896,  240, 0, 0,  3,  to_The_Harbinger`s_Cradle
+P -238.0000, 157.0000, -133.6013,  240, 0, 0,  2,  Succor
+P -823.9255, 307.4582, -183.7644,  0, 0, 0,  2,  Scout_Trais
+P -653.8528, 379.8706, -687.0224,  0, 127, 127,  2,  Taruun_Guardian_Drenesh_(Quests)
+P -671.6042, 352.8399, -687.0224,  0, 0, 0,  2,  Thedran_Narrok
+P -689.1561, 429.9050, -687.0224,  0, 0, 0,  2,  Adalaide_Galerider
+P -668.7607, 424.0249, -687.0225,  0, 127, 127,  2,  Private_Vesk_(Quests)
+P -229.8954, 349.8352, -206.7160,  0, 240, 240,  2,  Master_Alchemist_Penigan_(Raid,Mission)
+P -267.0323, 332.8102, -206.7160,  0, 127, 127,  2,  Scout_Leader_Sylen_(Quests)
+P -125.5395, 319.6508, -203.7639,  0, 127, 127,  2,  Xanthan_Foxheart_(Quests)
+P -635.0916, 164.3338, -399.5074,  127, 64, 0,  2,  scalewrought_foreman_(Hunter)
